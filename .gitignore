@@ -3,8 +3,6 @@ node_modules
 dist
 release
 *.log
-.env
-.env.*
 !.env.example
 .idea
 .claude
@@ -21,3 +19,4 @@ blob-report
 .tmp
 .test-dist
 docker/local-ai-gateway/*.tgz
+config.bat
